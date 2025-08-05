@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiayi Chen"
-description              : "An early-stage researcher in the field of embodied intelligence. "
-repository               : "chris1220313648/chris1220313648.github.io"
+title                    : "Wenxuan Song"
+description              : "A researcher in robotics and multimodal large language models. "
+repository               :
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  359714215
+# google_analytics_id      :  359714215
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiayi Chen"
+  name             : "Wenxuan Song"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology"
+  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vxvKpeMAAAAJ"
-  email            : "1952296@tongji.edu.cn"
+  email            : "songwenxuan0115@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

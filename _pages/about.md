@@ -17,6 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a first-year Ph.D. student at the ROAS Thrust at the Hong Kong University of Science and Technology (HKUST), Guangzhou campus, advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I received my Bachelor's degree in robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was a visiting student at MiLab, Westlake University, supervised by Donglin Wang. I keep a close connection with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/) from then on, who have been teaching me a lot. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
+
+Goal: Robots that improve everyone's life.
+
+Focus: How to build the data flywheel for robotics to unlock human-level athletic skills and semantic intelligence? How to make robots perform useful tasks with adaptability, generalizability, agility, and safety?
+
+Method: Utilizing learning-based methods that scale with computation and data.
+
+Robots: I love working on humanoids and aim to make them capable of doing everything I can do—and more.
+
+Email: tairanh [AT] andrew.cmu.edu
+
 I am jiayi Chen, a graduate in Automation from Tongji University (Class of 2019). Currently, I am pursuing my Master’s in Computer Science and Technology at Harbin Institute of Technology (HIT). Meanwhile, I serve as a Research Assistant  at the IRPN Lab, Systems Hub, Hong Kong University of Science and Technology (Guangzhou), where my research focuses on Embodied Intelligence.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->

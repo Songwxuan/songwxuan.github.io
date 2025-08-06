@@ -39,22 +39,22 @@ Email: songwenxuan0115 [AT] gmail.com
 
 - For full publications, please refer to my Google Scholar.
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)
+
+**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³†**, **Yuxin Huang¹**, **Han Zhao²˒³**, **Donglin Wang²**,  **Haoang Li¹‡**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/PD-VLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/pdf/2503.02310)
 
 **Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³**, **Han Zhao²˒³**, **Wei Zhao²**,**Zhide Zhong¹**,  **Zongyuan Ge⁴**, **Jun Ma¹**,  **Haoang Li¹‡**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rational-vla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RationalVLA: A Rational Vision-Language-Action Model with Dual System](https://arxiv.org/pdf/2506.10826)
-
-**Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, Han Zhao, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang, Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li**
 
 </div>
 </div>
@@ -70,12 +70,12 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/rational-vla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)
+[RationalVLA: A Rational Vision-Language-Action Model with Dual System](https://arxiv.org/pdf/2506.10826)
 
-**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³†**, **Yuxin Huang¹**, **Han Zhao²˒³**, **Donglin Wang²**,  **Haoang Li¹‡**
+**Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, Han Zhao, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang, Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li**
 
 </div>
 </div>

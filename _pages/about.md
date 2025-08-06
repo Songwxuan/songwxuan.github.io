@@ -69,6 +69,36 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/more.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007)
+
+**Han Zhao\***, **Wenxuan Song\***, **Donglin Wang**, **Xinyang Tong**, **Pengxiang Ding**, **Xuelian Cheng**, **Zongyuan Ge**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/germ.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robots](https://songwxuan.github.io/GeRM/)
+
+**Wenxuan Song**, **Han Zhao**, **Pengxiang Ding**, **Can Cui**, **Shangke Lyu**, **Yaning Fan**, **Donglin Wang**  
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/quart.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+  
+[QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](https://quart-robot.github.io/)
+
+**Pengxiang Ding**, **Han Zhao**, **Wenxuan Song**, **Wenjie Zhang**, **Min Zhang**, **Siteng Huang**, **Ningxi Yang**, **Donglin Wang**
+
+</div>
+</div>
+  
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards

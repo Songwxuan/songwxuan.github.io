@@ -90,12 +90,8 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div>
-  <video width="100%" controls>
-    <source src="videos/germ.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/germ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 
 [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robots](https://songwxuan.github.io/GeRM/)
 

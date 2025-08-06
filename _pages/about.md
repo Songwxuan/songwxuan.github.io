@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at the ROAS Thrust at the Hong Kong University of Science and Technology (HKUST), Guangzhou campus, advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I received my Bachelor's degree in robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was a visiting student at MiLab, Westlake University, supervised by Donglin Wang. I keep a close connection with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/) from then on, who have been teaching me a lot. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
+I am Wenxuan Song (宋文轩 in Chinese), a first-year Ph.D. student at the ROAS Thrust at the Hong Kong University of Science and Technology (HKUST), Guangzhou campus, advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I received my Bachelor's degree in robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was a visiting student at MiLab, Westlake University, supervised by Donglin Wang. I keep a close connection with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/) from then on, who have been teaching me a lot. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
 
 Goal: Pushing the boundaries of the world through robotics.
 

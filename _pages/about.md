@@ -59,6 +59,17 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/openhelix.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://openhelix-robot.github.io/)
+
+**Can Cui**, **Pengxiang Ding***, **Wenxuan Song**, **Shuanghao Bai**, **Xinyang Tong**, **Zirui Ge**, **Runze Suo**,  
+**Wanqi Zhou**, **Yang Liu**, **Bofang Jia**, **Han Zhao**, **Siteng Huang**, **Donglin Wang†**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
@@ -79,8 +90,12 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/germ.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
+<div class='paper-box'><div class='paper-box-image'><div>
+  <video width="100%" controls>
+    <source src="videos/germ.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div></div>
 
 [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robots](https://songwxuan.github.io/GeRM/)
 

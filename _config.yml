@@ -161,6 +161,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-include:
-  - googlecaa933d0085c2390.html

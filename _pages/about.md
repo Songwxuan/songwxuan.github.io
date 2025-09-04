@@ -39,7 +39,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 - For full publications, please refer to my Google Scholar.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/reconvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://irpn-lab.github.io/FlowVLA/)
@@ -49,7 +49,7 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/reconvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/reconvla.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [ReconVLA: Reconstructive Vision\textendash Language\textendash Action Model as Effective Robot Perceiver](https://zionchow.github.io/ReconVLA/)

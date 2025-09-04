@@ -39,12 +39,32 @@ Email: songwenxuan0115 [AT] gmail.com
 
 - For full publications, please refer to my Google Scholar.
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/reconvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://irpn-lab.github.io/FlowVLA/)
+
+**Zhide Zhong**, **Haodong Yan**, **Junfeng Li**, **Xiangchen Liu**, **Xin Gong**, **Wenxuan Song**, **Jiayi Chen**, **Haoang Li**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/reconvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[ReconVLA: Reconstructive Vision\textendash Language\textendash Action Model as Effective Robot Perceiver](https://zionchow.github.io/ReconVLA/)
+
+**Wenxuan Song**, **Ziyang Zhou**, **Han Zhao**, **Jiayi Chen**, **Pengxiang Ding**, **Haodong Yan**, **Yuxin Huang**, **Feilong Tang**, **Donglin Wang**, **Haoang Li**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)
 
-**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³†**, **Yuxin Huang¹**, **Han Zhao²˒³**, **Donglin Wang²**,  **Haoang Li¹‡**
+**Wenxuan Song**, **Jiayi Chen**, **Pengxiang Ding**, **Yuxin Huang**, **Han Zhao**, **Donglin Wang**, **Haoang Li**
 
 </div>
 </div>
@@ -54,7 +74,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 [Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/pdf/2503.02310)
 
-**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³**, **Han Zhao²˒³**, **Wei Zhao²**,**Zhide Zhong¹**,  **Zongyuan Ge⁴**, **Jun Ma¹**,  **Haoang Li¹‡**
+**Wenxuan Song**, **Jiayi Chen**, **Pengxiang Ding**, **Han Zhao**, **Wei Zhao**,**Zhide Zhong**, **Zongyuan Ge**, **Jun Ma**, **Haoang Li**
 
 </div>
 </div>
@@ -64,8 +84,8 @@ Email: songwenxuan0115 [AT] gmail.com
 
 [OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://openhelix-robot.github.io/)
 
-**Can Cui**, **Pengxiang Ding***, **Wenxuan Song**, **Shuanghao Bai**, **Xinyang Tong**, **Zirui Ge**, **Runze Suo**,  
-**Wanqi Zhou**, **Yang Liu**, **Bofang Jia**, **Han Zhao**, **Siteng Huang**, **Donglin Wang†**
+**Can Cui**, **Pengxiang Ding**, **Wenxuan Song**, **Shuanghao Bai**, **Xinyang Tong**, **Zirui Ge**, **Runze Suo**,  
+**Wanqi Zhou**, **Yang Liu**, **Bofang Jia**, **Han Zhao**, **Siteng Huang**, **Donglin Wang**
 
 </div>
 </div>
@@ -75,7 +95,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 [RationalVLA: A Rational Vision-Language-Action Model with Dual System](https://arxiv.org/pdf/2506.10826)
 
-**Wenxuan Song, Jiayi Chen, Wenxue Li, Xu He, Han Zhao, Can Cui, Pengxiang Ding, Shiyan Su, Feilong Tang, Donglin Wang, Xuelian Cheng, Zongyuan Ge, Xinhu Zheng, Zhe Liu, Hesheng Wang, Haoang Li**
+**Wenxuan Song**, **Jiayi Chen**, **Wenxue Li**, **Xu He**, **Han Zhao**, **Can Cui**, **Pengxiang Ding**, **Shiyan Su**, **Feilong Tang**, **Donglin Wang**, **Xuelian Cheng**, **Zongyuan Ge**, **Xinhu Zheng**, **Zhe Liu**, **Hesheng Wang**, **Haoang Li**
 
 </div>
 </div>
@@ -85,7 +105,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007)
 
-**Han Zhao\***, **Wenxuan Song\***, **Donglin Wang**, **Xinyang Tong**, **Pengxiang Ding**, **Xuelian Cheng**, **Zongyuan Ge**
+**Han Zhao**, **Wenxuan Song**, **Donglin Wang**, **Xinyang Tong**, **Pengxiang Ding**, **Xuelian Cheng**, **Zongyuan Ge**
 
 </div>
 </div>

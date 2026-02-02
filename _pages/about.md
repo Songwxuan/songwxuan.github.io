@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Wenxuan Song (宋文轩 in Chinese), a first-year Ph.D. student at the ROAS Thrust at the Hong Kong University of Science and Technology (HKUST), Guangzhou campus, advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I received my Bachelor's degree in robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was a visiting student at MiLab, Westlake University, supervised by Donglin Wang. I keep a close connection with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/) from then on, who have been teaching me a lot. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
+I am Wenxuan Song (宋文轩 in Chinese), a first-year Ph.D. student at the ROAS Thrust at the Hong Kong University of Science and Technology (HKUST), Guangzhou campus, advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I am the first author of an **AAAI 2026 Best Paper Award** (5 of 30948 submissions). I have published **10** papers as a first or co–first author in leading conferences and journals, including ICLR, ICRA, AAAI, IROS, and the IEEE Transactions series.
+
+Previously, I received my Bachelor's degree in robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was a visiting student at MiLab, Westlake University, supervised by Donglin Wang. I keep a close connection with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/) from then on, who have been teaching me a lot. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
+
+My research focuses on embodied intelligence. My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver*, received the AAAI 2026 Best Paper Award and has attracted over 180 stars on GitHub. I am also a co-founder of the open-source organization OpenHelix Team, where the repositories I have substantially contributed to have collectively garnered more than **3600** stars.
 
 Goal: Pushing the boundaries of the world through robotics.
 
@@ -38,6 +42,20 @@ Email: songwenxuan0115 [AT] gmail.com
 # 📝 Selected Publications 
 
 - For full publications, please refer to my Google Scholar.
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[Spatial Forcing: Implicit Spatial Representation Alignment for Vision–Language–Action Models](#)
+
+**Fuhao Li**, **Wenxuan Song**, Han Zhao, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li
+
+*ICLR 2026*  
+*\* indicates equal contribution*
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 

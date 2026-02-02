@@ -189,7 +189,11 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 - *2023.06 - 2025.06 (now)*, Pursuing a Master's degree in Computer Science and Technology at Harbin Institute of Technology.
 - *2019.09 - 2023.06*, Studied Automation at Tongji University and obtained a Bachelor's degree in Engineering. -->
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- Invited talks at the **Pine Lab, Nanyang Technological University** (group led by Prof. Ziwei Wang),  
+**AIR, Tsinghua University** (group led by Prof. Yan Wang),  
+**Auto Lab, Shanghai Jiao Tong University** (group led by Prof. Zhipeng Zhang),  
+**Zhejiang University** (group led by Prof. Chunhua Shen),  
+**The Hong Kong University of Science and Technology (Guangzhou)** (group led by Prof. Jia Li),  
+and the **BAAI Innovation Center**, among others.
 

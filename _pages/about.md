@@ -44,57 +44,59 @@ Email: songwenxuan0115 [AT] gmail.com
 - For full publications, please refer to my Google Scholar.
 
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/spatial_forcing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatial Forcing: Implicit Spatial Representation Alignment for Vision–Language–Action Models](#)
 
-**Fuhao Li**, **Wenxuan Song**, Han Zhao, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li
+**Fuhao Li\***, **Wenxuan Song\***, Han Zhao, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li
 
-*ICLR 2026*  
-*Equal contribution*
+*\* denotes equal contribution, ‡ denotes project lead*
 
 </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/udvla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unified Diffusion VLA: Vision–Language–Action Model via Joint Discrete Denoising Diffusion Process](#)
 
 **Jiayi Chen**, **Wenxuan Song**, Pengxiang Ding, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang Li
 
-*ICLR 2026*  
-*Equal contribution*
+*\* denotes equal contribution, ‡ denotes project lead*
 
 </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/vla_adapter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Best Paper)</div><img src='images/reconvla.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[ReconVLA: Reconstructive Vision\textendash Language\textendash Action Model as Effective Robot Perceiver](https://zionchow.github.io/ReconVLA/)
+
+**Wenxuan Song**, **Ziyang Zhou**, **Han Zhao**, **Jiayi Chen**, **Pengxiang Ding**, **Haodong Yan**, **Yuxin Huang**, **Feilong Tang**, **Donglin Wang**, **Haoang Li**
+
+</div>
+</div>
 
 [VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision–Language–Action Models](#)
 
 Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenxuan Song**, Han Zhao, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang
 
-*AAAI 2026 (Oral)*
-
 </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/llava_vla.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking the Practicality of Vision–Language–Action Models: A Comprehensive Benchmark and an Improved Baseline](#)
 
 **Wenxuan Song**, Jiayi Chen, Xiaoquan Sun, Huashuo Lei, Yikai Qin, Wei Zhao, Pengxiang Ding, Han Zhao, Tongxin Wang, Pengxu Hou, Zhide Zhong, Haodong Yan, Donglin Wang, Jun Ma, Haoang Li
 
-*ICRA 2026*
-
 </div>
 </div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -102,16 +104,6 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://irpn-lab.github.io/FlowVLA/)
 
 **Zhide Zhong**, **Haodong Yan**, **Junfeng Li**, **Xiangchen Liu**, **Xin Gong**, **Wenxuan Song**, **Jiayi Chen**, **Haoang Li**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/reconvla.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
-
-[ReconVLA: Reconstructive Vision\textendash Language\textendash Action Model as Effective Robot Perceiver](https://zionchow.github.io/ReconVLA/)
-
-**Wenxuan Song**, **Ziyang Zhou**, **Han Zhao**, **Jiayi Chen**, **Pengxiang Ding**, **Haodong Yan**, **Yuxin Huang**, **Feilong Tang**, **Donglin Wang**, **Haoang Li**
 
 </div>
 </div>
@@ -129,7 +121,7 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/PD-VLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/pdf/2503.02310)
+[PD-VLA: Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/pdf/2503.02310)
 
 **Wenxuan Song**, **Jiayi Chen**, **Pengxiang Ding**, **Han Zhao**, **Wei Zhao**,**Zhide Zhong**, **Zongyuan Ge**, **Jun Ma**, **Haoang Li**
 

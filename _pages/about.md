@@ -68,9 +68,6 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/vla_adapter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Best Paper)</div><img src='images/reconvla.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
@@ -80,6 +77,9 @@ Email: songwenxuan0115 [AT] gmail.com
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/vla_adapter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision–Language–Action Models](#)
 

@@ -52,10 +52,49 @@ Email: songwenxuan0115 [AT] gmail.com
 **Fuhao Li**, **Wenxuan Song**, Han Zhao, Jingbo Wang, Pengxiang Ding, Donglin Wang, Long Zeng, Haoang Li
 
 *ICLR 2026*  
-*\* indicates equal contribution*
+*Equal contribution*
 
 </div>
 </div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[Unified Diffusion VLA: Vision–Language–Action Model via Joint Discrete Denoising Diffusion Process](#)
+
+**Jiayi Chen**, **Wenxuan Song**, Pengxiang Ding, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang Li
+
+*ICLR 2026*  
+*Equal contribution*
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision–Language–Action Models](#)
+
+Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenxuan Song**, Han Zhao, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang
+
+*AAAI 2026 (Oral)*
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking the Practicality of Vision–Language–Action Models: A Comprehensive Benchmark and an Improved Baseline](#)
+
+**Wenxuan Song**, Jiayi Chen, Xiaoquan Sun, Huashuo Lei, Yikai Qin, Wei Zhao, Pengxiang Ding, Han Zhao, Tongxin Wang, Pengxu Hou, Zhide Zhong, Haodong Yan, Donglin Wang, Jun Ma, Haoang Li
+
+*ICRA 2026*
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 

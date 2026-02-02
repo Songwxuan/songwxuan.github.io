@@ -43,6 +43,9 @@ Email: songwenxuan0115 [AT] gmail.com
 
 - For full publications, please refer to my Google Scholar.
 
+</div>
+</div>
+
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +58,6 @@ Email: songwenxuan0115 [AT] gmail.com
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 

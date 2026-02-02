@@ -139,7 +139,7 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rational-vla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ASME Transactions on Mechatronics (TMech)</div><img src='images/rational-vla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RationalVLA: A Rational Vision-Language-Action Model with Dual System](https://arxiv.org/pdf/2506.10826)
@@ -149,7 +149,7 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/more.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/more.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007)
@@ -159,7 +159,7 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/germ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/germ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robots](https://songwxuan.github.io/GeRM/)
@@ -169,7 +169,7 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/quart.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/quart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
 [QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](https://quart-robot.github.io/)

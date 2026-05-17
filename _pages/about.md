@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Wenxuan Song (宋文轩 in Chinese), a first-year Ph.D. student at the ROAS Thrust at the Hong Kong University of Science and Technology (HKUST), Guangzhou campus, advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I am the first author of an **AAAI 2026 Best Paper Award** (5 of 30948 submissions). I have published **8** papers as a first or co–first author in leading conferences and journals, including ICLR, ICRA, AAAI, IROS, and the IEEE Transactions series.
+I am Wenxuan Song (宋文轩), a second-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on foundation models for embodied intelligence.
+I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ICRA, CVPR, and the IEEE Transactions series. So far, I have published 15 papers, including **8** first-author or co-first-author papers.
 
-Previously, I received my Bachelor's degree in robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was a visiting student at MiLab, Westlake University, supervised by Donglin Wang. I keep a close connection with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/) from then on, who have been teaching me a lot. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
+My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Best Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.
 
-My research focuses on embodied intelligence. My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver*, received the AAAI 2026 Best Paper Award and has attracted over 180 stars on GitHub. I am also a co-founder of the open-source organization OpenHelix Team, where the repositories I have substantially contributed to have collectively garnered more than **3600** stars.
+Beyond research, I am a co-founder of the open-source organization OpenHelix Team, where the repositories I have substantially led or contributed to have collectively gained over **4,000** GitHub stars. My work has been adopted in industrial models by companies such as Ant Lingbo and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
 
-My work has been widely used and referred to in industrial models, such as Robbyant and Xiaomi. Moreover, my work has been widely featured in news media, such as [MIT Technology Review](https://www.mittrchina.com/news/detail/15926).
+Previously, I received my Bachelor's degree in Robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was also a visiting student at MiLab, Westlake University, supervised by Donglin Wang, and I have maintained close connections with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/), from whom I have learned a great deal. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
 
-Goal: Pushing the boundaries of the world through robotics.
+In recent years, I was named one of the 2025 Embodied AI Next-20 (EAI Next-20), and became a member of the BAAI Qingyuan Society.
+
+Goal: Advancing toward robotics' GPT-3.5 moment.
 
 Focus: Building dexterous and generalizable robotic systems through **Vision-Language-Action** models and **world models**.
 

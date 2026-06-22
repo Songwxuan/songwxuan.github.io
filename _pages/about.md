@@ -26,8 +26,6 @@ Beyond research, I am a co-founder of the open-source organization OpenHelix Tea
 
 Previously, I received my Bachelor's degree in Robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was also a visiting student at MiLab, Westlake University, supervised by Donglin Wang, and I have maintained close connections with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/), from whom I have learned a great deal. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
 
-In recent years, I was named one of the 2025 Embodied AI Next-20 (EAI Next-20), and became a member of the BAAI Qingyuan Society.
-
 Goal: Advancing toward robotics' GPT-3.5 moment.
 
 Focus: Building dexterous and generalizable robotic systems through **Vision-Language-Action** models and **world models**.

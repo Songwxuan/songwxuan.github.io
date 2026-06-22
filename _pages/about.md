@@ -34,6 +34,14 @@ Email: songwenxuan0115 [AT] gmail.com
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+# 🏆 Honors
+- **<span style="color:red;">Best Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/30948)**, 2026
+- **Champion**, ICRA-26 WBCD Competition (Deformable Track), 2026
+- **Champion**, ICRA-26 WBCD Competition (Logistic Picking Track), 2026
+- **Innovibe Rising Star Award**, Beijing Academy of Artificial Intelligence (BAAI), **(20 selected annually)**, 2026
+- **Next-20 Award**, Embodied AI 100 in China, **(20 selected annually)**, 2026
+- **Golden Reviewer**, International Conference of Machine Learning (ICML-26), 2026
+
 
 # 🔥 Projects
 - [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) ![GitHub stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social): We collect published papers in the field of embodied intelligence.

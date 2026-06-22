@@ -45,9 +45,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 # 🔥 Projects
 - [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) ![GitHub stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social): We collect published papers in the field of embodied intelligence.
-
-- [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) ![GitHub stars](https://img.shields.io/github/stars/OpenHelix-Team/LLaVA-VLA?style=social): We propose a simple yet effective Vision-Language-Action model built upon the popular open-source VLM LLaVA.
-
+- [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) ![GitHub stars](https://img.shields.io/github/stars/OpenHelix-Team/VLA-Adapter?style=social): We propose a simple but effective VLA baseline.
 - [OpenHelix](https://github.com/OpenHelix-robot/OpenHelix) ![GitHub stars](https://img.shields.io/github/stars/OpenHelix-robot/OpenHelix?style=social): We propose an open-source dual-system VLA model for robotic manipulation.
 
 # 📝 Selected Publications 

@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Wenxuan Song (宋文轩), a second-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on foundation models for embodied intelligence.
-I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ICRA, CVPR, and the IEEE Transactions series. So far, I have published 15 papers, including **8** first-author or co-first-author papers.
+I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ECCV, CVPR, and the IEEE Transactions series. So far, I have published 20 papers, including **10** first-author or co-first-author papers.
 
 My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Best Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.
 
-Beyond research, I am a co-founder of the open-source organization OpenHelix Team, where the repositories I have substantially led or contributed to have collectively gained over **4,000** GitHub stars. My work has been adopted in industrial models by companies such as Ant Lingbo and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
+Beyond research, I am a co-founder of the open-source organization OpenHelix Team, where the repositories I have substantially led or contributed to have collectively gained over **4,000** GitHub stars. My work has been adopted in industrial models by companies such as Robbyant and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
 
 Previously, I received my Bachelor's degree in Robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was also a visiting student at MiLab, Westlake University, supervised by Donglin Wang, and I have maintained close connections with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/), from whom I have learned a great deal. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
 
@@ -48,6 +48,25 @@ Email: songwenxuan0115 [AT] gmail.com
 
 - For full publications, please refer to my Google Scholar.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 2026</div><img src='images/fast-dvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance](https://arxiv.org/abs/2603.25661)
+
+**Wenxuan Song**, **Jiayi Chen**, **Shuai Chen**, **Jingbo Wang**, **Pengxiang Ding**, **Han Zhao**, **Yikai Qin**, **Xinhu Zheng**, **Donglin Wang**, **Yan Wang**, **Haoang Li**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 2026</div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)
+
+**Wenxuan Song**, **Jiayi Chen**, **Pengxiang Ding**, **Yuxin Huang**, **Han Zhao**, **Yinchuan Li**, **Ying-Cong Chen**, **Donglin Wang**, **Haoang Li**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/spatial_forcing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +95,7 @@ Email: songwenxuan0115 [AT] gmail.com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Best Paper)</div><img src='images/reconvla.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
+
 [ReconVLA: Reconstructive Vision\textendash Language\textendash Action Model as Effective Robot Perceiver](https://zionchow.github.io/ReconVLA/)
 
 **Wenxuan Song**, Ziyang Zhou, Han Zhao, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li
@@ -103,22 +123,12 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRO</div><img src='images/flowvla_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://irpn-lab.github.io/FlowVLA/)
 
 **Zhide Zhong**, **Haodong Yan**, **Junfeng Li**, **Xiangchen Liu**, **Xin Gong**, **Wenxuan Song**, **Jiayi Chen**, **Haoang Li**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
-
-[CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)
-
-**Wenxuan Song**, **Jiayi Chen**, **Pengxiang Ding**, **Yuxin Huang**, **Han Zhao**, **Donglin Wang**, **Haoang Li**
 
 </div>
 </div>

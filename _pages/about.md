@@ -48,8 +48,16 @@ Email: songwenxuan0115 [AT] gmail.com
 
 - For full publications, please refer to my Google Scholar.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 2026</div><img src='images/fast-dvla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2026</div>
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="images/fast-dvla.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1"> 
 
 [Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance](https://arxiv.org/abs/2603.25661)
 

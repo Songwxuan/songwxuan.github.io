@@ -72,7 +72,7 @@ Email: songwenxuan0115 [AT] gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 2026</div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ceed-vla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)

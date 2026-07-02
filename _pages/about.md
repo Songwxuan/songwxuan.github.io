@@ -39,7 +39,7 @@ Email: songwenxuan0115 [AT] gmail.com
 - **Champion**, ICRA-26 WBCD Competition (Deformable Track), 2026
 - **Champion**, ICRA-26 WBCD Competition (Logistic Picking Track), 2026
 - **Innovibe Rising Star Award**, Beijing Academy of Artificial Intelligence (BAAI), **(20 selected annually)**, 2026
-- **Next-20 Award**, Embodied AI 100 in China, **(20 selected annually)**, 2026
+- [**Next-20 Award**, Embodied AI 100 in China](https://www.modelscope.cn/learn/6060), **(20 selected annually)**, 2026
 - **Golden Reviewer**, International Conference of Machine Learning (ICML-26), 2026
 
 

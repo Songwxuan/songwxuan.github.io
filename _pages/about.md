@@ -35,6 +35,7 @@ Email: songwenxuan0115 [AT] gmail.com
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🏆 Honors
+- **Scholarship**, Ant Group Intech Future Scholarship, **(10 selected annually)**, 2026
 - **<span style="color:red;">Best Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/30948)**, 2026
 - [**Champion**, ICRA-26 WBCD Competition (Deformable Track)](https://mp.weixin.qq.com/s/jJLwNItTH3EQKAnQdG4jlQ), 2026
 - **Champion**, ICRA-26 WBCD Competition (Logistic Picking Track), 2026
@@ -42,6 +43,9 @@ Email: songwenxuan0115 [AT] gmail.com
 - [**Next-20 Award**, Embodied AI 100 in China](https://www.modelscope.cn/learn/6060), **(20 selected annually)**, 2026
 - **Golden Reviewer**, International Conference of Machine Learning (ICML-26), 2026
 
+# ⚙️ Industry
+- **Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining.
+- **Ola Dimensions**, With the support of Prof. Haoang Li and Dr. Shunbo Zhou, I have also had the pleasure of leading the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
 
 # 🔥 Projects
 - [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) ![GitHub stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social): We collect published papers in the field of embodied intelligence.

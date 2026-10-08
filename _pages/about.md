@@ -36,8 +36,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 # ⚙️ Industry
 - **(Now) Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining.
-- **(Prev.) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
-- I am also open to new opportunities in industry.
+- **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
 
 # 🏆 Honors
 - **Scholarship**, Ant Group Intech Future Scholarship, **(10 selected annually)**, 2026

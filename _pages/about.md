@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Wenxuan Song (宋文轩), a second-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on foundation models for embodied intelligence.
+I am Wenxuan Song (宋文轩), a third-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on foundation models for embodied intelligence.
 I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ECCV, CVPR, and T-RO. So far, I have published 30 papers, including **12** first-author or co-first-author papers.
 
 My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Best Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.

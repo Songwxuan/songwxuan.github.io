@@ -39,6 +39,7 @@ Email: songwenxuan0115 [AT] gmail.com
 - **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
 
 # 🏆 Honors
+- **Best Tool Paper**, IROS-26 ScaleInfra Workshop, 2026
 - **Scholarship**, Ant Group Intech Future Scholarship, **(10 selected annually)**, 2026
 - **<span style="color:red;">Best Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/30948)**, 2026
 - [**Champion**, ICRA-26 WBCD Competition (Deformable Track)](https://mp.weixin.qq.com/s/jJLwNItTH3EQKAnQdG4jlQ), 2026

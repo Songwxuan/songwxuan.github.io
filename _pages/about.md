@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Wenxuan Song (宋文轩), a second-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on foundation models for embodied intelligence.
-I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ECCV, CVPR, and the IEEE Transactions series. So far, I have published 20 papers, including **10** first-author or co-first-author papers.
+I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ECCV, CVPR, and the IEEE Transactions series. So far, I have published 30 papers, including **12** first-author or co-first-author papers.
 
 My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Best Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.
 
-Beyond research, I am a co-founder of the open-source organization OpenHelix Team, where the repositories I have substantially led or contributed to have collectively gained over **4,000** GitHub stars. My work has been adopted in industrial models by companies such as Robbyant and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
+Beyond research, I am a co-founder of the open-source organization OpenHelix Robotics, where the repositories I have substantially led or contributed to have collectively gained over **5,000** GitHub stars. My work has been adopted in industrial models by companies such as Robbyant and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
 
 Previously, I received my Bachelor's degree in Robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was also a visiting student at MiLab, Westlake University, supervised by Donglin Wang, and I have maintained close connections with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/), from whom I have learned a great deal. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
 
@@ -35,8 +35,8 @@ Email: songwenxuan0115 [AT] gmail.com
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # ⚙️ Industry
-- **Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining.
-- **Ola Dimensions**, With the support of Prof. Haoang Li and Dr. Shunbo Zhou, I have also had the pleasure of leading the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
+- **(Now) Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining.
+- **(Prev.) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
 - I am also open to new opportunities in industry.
 
 # 🏆 Honors

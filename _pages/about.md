@@ -48,6 +48,32 @@ Email: songwenxuan0115 [AT] gmail.com
 - [**Next-20 Award**, Embodied AI 100 in China](https://www.modelscope.cn/learn/6060), **(20 selected annually)**, 2026
 - **Golden Reviewer**, International Conference of Machine Learning (ICML-26), 2026
 
+# Recent
+
+<p>
+  My recent research focuses on building a full-stack closed loop for the joint
+  optimization of data, models, and hardware. Specifically,
+  <a href="https://arxiv.org/abs/2610.07969">EmbodiedSmith</a> provides a scalable
+  simulation-based RSI data flywheel. On the model side, I first conducted
+  large-scale pretraining of
+  <a href="https://arxiv.org/abs/2610.02054v1">UniWAM</a> on human and robot data,
+  and subsequently developed
+  <a href="https://arxiv.org/abs/2609.39526">Discrete Forcing</a> as a new action
+  expert for efficient and precise action generation.
+  <a href="https://arxiv.org/abs/2609.18514v1">ActiveScale</a> further supports
+  the extension to whole-body manipulation through active perception hardware.
+  Feedback from real-world interactions drives data updates and model improvement,
+  closing the loop across all three layers.
+</p>
+
+<figure style="margin: 1.5rem 0;">
+  <img
+    src="images/embodied-framework-code.svg"
+    alt="A full-stack research framework connecting data, models, and hardware through a real-world feedback loop."
+    style="display: block; width: 100%; height: auto;"
+  >
+</figure>
+
 # 🔥 Projects
 - [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) ![GitHub stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social): We collect published papers in the field of embodied intelligence.
 - [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) ![GitHub stars](https://img.shields.io/github/stars/OpenHelix-Team/VLA-Adapter?style=social): We propose a simple but effective VLA baseline.

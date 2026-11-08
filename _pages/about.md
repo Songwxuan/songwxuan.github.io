@@ -28,7 +28,7 @@ Previously, I received my Bachelor's degree in Robotics at Harbin Institute of T
 
 Goal: Advancing toward robotics' GPT-3.5 moment.
 
-Focus: Building dexterous and generalizable robotic systems through **Vision-Language-Action** models and **world models**.
+Focus: Building dexterous and generalizable robotic systems through **Vision-Language-Action** models and **World Models**.
 
 Email: songwenxuan0115 [AT] gmail.com
 
@@ -50,6 +50,8 @@ Email: songwenxuan0115 [AT] gmail.com
 - **Golden Reviewer**, International Conference of Machine Learning (ICML-26), 2026
 
 # Recent
+
+- **[SLA](https://embodiedsla.github.io/)** Collaborated with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the first 3D robot foundation model (RFM) and also the first RFM that conducts 3D pretraining on more than 10k hours of data. It achieves SOTA performance on [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and other real-world experiments. We believe that SLA, as a new class of RFM, holds the potential to replace the ecological niche of powerful VLAs (such as PI05). We welcome everyone to try it out!
 
 <p>
   My recent research focuses on building a full-stack closed loop for the joint

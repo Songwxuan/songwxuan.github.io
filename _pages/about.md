@@ -251,7 +251,8 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 - *2019.09 - 2023.06*, Studied Automation at Tongji University and obtained a Bachelor's degree in Engineering. -->
 
 # 💬 Invited Talks
-- Invited talks at the **Pine Lab, Nanyang Technological University** (group led by Prof. Ziwei Wang),  
+- Invited talks at the **Pine Lab, Nanyang Technological University** (group led by Prof. Ziwei Wang),
+**Peking University** (group led by Prof. Hao Dong),  
 **AIR, Tsinghua University** (group led by Prof. Yan Wang),  
 **Auto Lab, Shanghai Jiao Tong University** (group led by Prof. Zhipeng Zhang),  
 **Zhejiang University** (group led by Prof. Chunhua Shen),  

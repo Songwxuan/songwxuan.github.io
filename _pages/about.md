@@ -35,10 +35,11 @@ Email: songwenxuan0115 [AT] gmail.com
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # ⚙️ Industry
-- **(Now) Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining.
-- **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. The resulting model achieves state-of-the-art performance on multiple challenging benchmarks, and the technical report is scheduled for release at the end of this month.
+- **(Now) Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining. At Xiaomi, we released [Xiaomi-Robotics-1 (XR1)](https://arxiv.org/pdf/2607.15330), which is pretrained on 100k hours of UMI data (the second-largest data scale globally at the time) and achieves SOTA performance on RoboDojo, RoboCasa 365, and VLABench at the time.
+- **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. At OLA, we released [UniWAM](https://uniwam.github.io/), which proposes the scaling law of human-robot co-training for the first time and achieves SOTA performance on RoboTwin 2.0 Clean2Rand and LIBERO-PLUS.
 
 # 🏆 Honors
+- **Leading Technologies Award**, World Internet Conference (Key Technology Category)
 - **Best Tool Paper**, IROS-26 ScaleInfra Workshop, 2026
 - **Scholarship**, Ant Group Intech Future Scholarship, **(10 selected annually)**, 2026
 - **<span style="color:red;">Best Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/30948)**, 2026

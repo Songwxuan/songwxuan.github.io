@@ -51,7 +51,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 # Recent
 
-- **[SLA](https://embodiedsla.github.io/)** Collaborated with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the first 3D robot foundation model (RFM) and also the first RFM that conducts 3D pretraining on more than 10k hours of data. It achieves SOTA performance on [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and other real-world experiments. We believe that SLA, as a new class of RFM, holds the potential to replace the ecological niche of powerful VLAs (such as PI05). We welcome everyone to try it out!
+- **[SLA](https://embodiedsla.github.io/)**   Collaborated with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the first 3D robot foundation model (RFM) and also the first RFM that conducts 3D pretraining on more than 10k hours of data. It achieves SOTA performance on [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and other real-world experiments. We believe that SLA, as a new class of RFM, holds the potential to replace the ecological niche of powerful VLAs (such as PI05). We welcome everyone to try it out!
 
 <p>
   My recent research focuses on building a full-stack closed loop for the joint
@@ -61,7 +61,7 @@ Email: songwenxuan0115 [AT] gmail.com
   large-scale pretraining of
   <a href="https://arxiv.org/abs/2610.02054v1">UniWAM</a> on human and robot data,
   and subsequently developed
-  <a href="https://arxiv.org/abs/2609.39526">Discrete Forcing</a> as a new action
+  <a href="https://embodiedsla.github.io/">SLA</a> as a new action
   expert for efficient and precise action generation.
   <a href="https://arxiv.org/abs/2609.18514v1">ActiveScale</a> further supports
   the extension to whole-body manipulation through active perception hardware.

@@ -51,27 +51,13 @@ Email: songwenxuan0115 [AT] gmail.com
 
 # Recent
 
-- **[SLA](https://embodiedsla.github.io/)**   Collaborated with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the **RFM** and also the first RFM that conducts 3D pretraining on more than **10k hours** of data. It achieves SOTA performance on [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and other real-world experiments. We believe that SLA, as a new class of RFM, holds the potential to replace the ecological niche of powerful VLAs (such as PI05). We welcome everyone to try it out!
+- **[SLA](https://embodiedsla.github.io/).** In collaboration with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the first robot foundation model (RFM) to use more than **10,000 hours** of data for 3D pretraining. SLA achieves state-of-the-art performance on the [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and in other real-world experiments. We believe SLA could serve as an alternative to leading vision-language-action models (VLAs) such as π₀.₅. We welcome everyone to try it out!
 
-<p>
-  My recent research focuses on building a full-stack closed loop for the joint
-  optimization of data, models, and hardware. Specifically,
-  <a href="https://arxiv.org/abs/2610.07969">EmbodiedSmith</a> provides a scalable
-  simulation-based RSI data flywheel. On the model side, I first conducted
-  large-scale pretraining of
-  <a href="https://arxiv.org/abs/2610.02054v1">UniWAM</a> on human and robot data,
-  and subsequently developed
-  <a href="https://embodiedsla.github.io/">SLA</a> as a new action
-  expert for efficient and precise action generation.
-  <a href="https://arxiv.org/abs/2609.18514v1">ActiveScale</a> further supports
-  the extension to whole-body manipulation through active perception hardware.
-  Feedback from real-world interactions drives data updates and model improvement,
-  closing the loop across all three layers.
-</p>
+- **Data–Model–Hardware Closed Loop.** My recent research focuses on building a full-stack closed loop for jointly optimizing data, models, and hardware. [EmbodiedSmith](https://arxiv.org/abs/2610.07969) provides a scalable, simulation-based RSI data flywheel. On the model side, I first pretrained [UniWAM](https://arxiv.org/abs/2610.02054v1) at scale on human and robot data, then developed [SLA](https://embodiedsla.github.io/) for efficient and precise action generation. [ActiveScale](https://arxiv.org/abs/2609.18514v1) extends this work to whole-body manipulation through active perception hardware. Feedback from real-world interactions drives data updates and model improvements, closing the loop across all three layers.
 
 <figure style="margin: 1.5rem 0;">
   <img
-    src="images/embodied-framework-code.svg"
+    src="images/embodied-framework-code.png"
     alt="A full-stack research framework connecting data, models, and hardware through a real-world feedback loop."
     style="display: block; width: 100%; height: auto;"
   >

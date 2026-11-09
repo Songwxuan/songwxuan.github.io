@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Wenxuan Song (宋文轩), a third-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on foundation models for embodied intelligence.
+I am Wenxuan Song (宋文轩), a third-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on robotic foundation models (RFM).
 I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ECCV, CVPR, and T-RO. So far, I have published 30 papers, including **12** first-author or co-first-author papers.
 
 My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Best Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.
 
 Beyond research, I am a co-founder of the open-source organization OpenHelix Robotics, where the repositories I have substantially led or contributed to have collectively gained over **5,000** GitHub stars. My work has been adopted in industrial models by companies such as Robbyant and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
 
-Previously, I received my Bachelor's degree in Robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was also a visiting student at MiLab, Westlake University, supervised by Donglin Wang, and I have maintained close connections with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/), from whom I have learned a great deal. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
+I am leading a team with core members [Fuhao Li](https://haofuly.github.io/) and [Jiayi Chen](https://chris1220313648.github.io/). Previously, I received my Bachelor's degree in Robotics at Harbin Institute of Technology (HIT), Weihai Campus, advised by Minghang Zhao and Bo Huang. I was also a visiting student at MiLab, Westlake University, supervised by Donglin Wang, and I have maintained close connections with [Pengxiang Ding](https://dingpx.github.io/) and [Han Zhao](https://h-zhao1997.github.io/), from whom I have learned a great deal. I also spent time at Monash University, supervised by Zongyuan Ge and Xuelian Cheng.
 
 Goal: Advancing toward robotics' GPT-3.5 moment.
 
@@ -35,8 +35,8 @@ Email: songwenxuan0115 [AT] gmail.com
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # ⚙️ Industry
-- **(Now) Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining. At Xiaomi, we released [Xiaomi-Robotics-1 (XR1)](https://arxiv.org/pdf/2607.15330), which is pretrained on 100k hours of UMI data (the second-largest data scale globally at the time) and achieves SOTA performance on RoboDojo, RoboCasa 365, and VLABench at the time.
-- **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. At OLA, we released [UniWAM](https://uniwam.github.io/), which proposes the scaling law of human-robot co-training for the first time and achieves SOTA performance on RoboTwin 2.0 Clean2Rand and LIBERO-PLUS.
+- **(Now) Xiaomi**, I am currently an intern in Xiaomi’s Robotics Foundation Model team through its Top Talent Program, focusing on large-scale data infrastructure and model pretraining. At Xiaomi, we released [Xiaomi-Robotics-1 (XR1)](https://arxiv.org/pdf/2607.15330), which is pretrained on 100k hours of UMI data (the **second-largest** training data scale globally at the time) and achieves SOTA performance on RoboDojo, RoboCasa 365, and VLABench at the time.
+- **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. At OLA, we released [UniWAM](https://uniwam.github.io/), which **proposes the scaling law of human-robot co-training for the first time** and achieves SOTA performance on RoboTwin 2.0 Clean2Rand and LIBERO-PLUS.
 
 # 🏆 Honors
 - **Leading Technologies Award**, World Internet Conference (Key Technology Category)
@@ -51,7 +51,7 @@ Email: songwenxuan0115 [AT] gmail.com
 
 # Recent
 
-- **[SLA](https://embodiedsla.github.io/)**   Collaborated with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the first 3D robot foundation model (RFM) and also the first RFM that conducts 3D pretraining on more than 10k hours of data. It achieves SOTA performance on [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and other real-world experiments. We believe that SLA, as a new class of RFM, holds the potential to replace the ecological niche of powerful VLAs (such as PI05). We welcome everyone to try it out!
+- **[SLA](https://embodiedsla.github.io/)**   Collaborated with [Fuhao Li](https://haofuly.github.io/), we propose the Spatial-Language-Action model (SLA), the **RFM** and also the first RFM that conducts 3D pretraining on more than **10k hours** of data. It achieves SOTA performance on [RoboDojo-Real Benchmark](https://robodojo-benchmark.com/leaderboard?bench=realworld#robodojo) and other real-world experiments. We believe that SLA, as a new class of RFM, holds the potential to replace the ecological niche of powerful VLAs (such as PI05). We welcome everyone to try it out!
 
 <p>
   My recent research focuses on building a full-stack closed loop for the joint

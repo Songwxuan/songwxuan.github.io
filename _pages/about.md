@@ -73,6 +73,76 @@ Email: songwenxuan0115 [AT] gmail.com
 - For full publications, please refer to my Google Scholar.
 
 <div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">arXiv 2026</div>
+<img src="https://uniwam.github.io/assets/model.png" alt="UniWAM model architecture" width="100%" loading="lazy">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[UniWAM: Unified World-Action Model](https://arxiv.org/abs/2610.02054v4)
+
+**Wenxuan Song**<sup>‡</sup>, Jiayi Chen, Jingbo Wang, Shuai Zhou, Xicheng Gong, Zehua Fan, Ziyang Zhou, Junwu E, Haodong Yan, Fuhao Li, Qize Yu, Xu Huang, Pengwei Wang, Wen Chen, Shunbo Zhou, Haoang Li
+
+‡ denotes project lead.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">arXiv 2026</div>
+<img src="https://arxiv.org/html/2611.08373v1/fig_teaser_v2.png" alt="SLA training and evaluation overview" width="100%" loading="lazy">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://arxiv.org/abs/2611.08373)
+
+Fuhao Li<sup>*</sup>, **Wenxuan Song**<sup>*‡</sup>, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li
+
+\* denotes equal contribution, ‡ denotes project lead.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">arXiv 2026</div>
+<img src="https://arxiv.org/html/2610.07969v1/embodiedsmith_teaser.png" alt="EmbodiedSmith data flywheel overview" width="100%" loading="lazy">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation](https://arxiv.org/abs/2610.07969)
+
+Yikai Qin<sup>*</sup>, Yifei Deng<sup>*</sup>, Mingjian Liang<sup>*</sup>, **Wenxuan Song**<sup>*‡</sup>, Zepeng Lin<sup>*</sup>, Zhiyi Jiang<sup>*</sup>, Jiajun Fu, Qiao Sun, Huashuo Lei, Xicheng Gong, Jiayi Chen, Han Zhao, Shuanghao Bai, Pengxiang Ding, Pengwei Wang, Haoang Li
+
+\* denotes equal contribution, ‡ denotes project lead.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">arXiv 2026</div>
+<img src="https://arxiv.org/html/2607.15330v2/teaser.png" alt="Xiaomi-Robotics-1 project overview" width="100%" loading="lazy">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330v2)
+
+Xiaomi Robotics Team · Contributor: **Wenxuan Song**
+
+</div>
+</div>
+
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ECCV 2026</div>

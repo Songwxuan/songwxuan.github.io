@@ -39,7 +39,7 @@ Email: songwenxuan0115 [AT] gmail.com
 - **(Previous) OLA Dimensions**, In collaboration with Prof. Haoang Li and Dr. Shunbo Zhou, I have led the development of Ola Dimensions’ first-generation foundation model. I led a 20-member team spanning academia and industry to conduct pretraining using more than 300 H-series GPUs and 10k hours of data. At OLA, we released [UniWAM](https://uniwam.github.io/), which **proposes the scaling law of human-robot co-training for the first time** and achieves SOTA performance on RoboTwin 2.0 Clean2Rand and LIBERO-PLUS.
 
 # 🏆 Honors
-- **Leading Technologies Award**, World Internet Conference (Key Technology Category)
+- **Leading Technologies Award**, World Internet Conference (Key Technology Category), 2026
 - **Best Tool Paper**, IROS-26 ScaleInfra Workshop, 2026
 - **Scholarship**, Ant Group Intech Future Scholarship, **(10 selected annually)**, 2026
 - **<span style="color:red;">Best Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/30948)**, 2026

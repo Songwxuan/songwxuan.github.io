@@ -20,7 +20,7 @@ redirect_from:
 I am Wenxuan Song (宋文轩), a third-year Ph.D. student in the ROAS Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). My research focuses on robotic foundation models (RFM).
 I have been conducting research in embodied intelligence and robot learning, with publications in top-tier venues including ICLR, ECCV, CVPR, and T-RO. So far, I have published 30 papers, including **12** first-author or co-first-author papers.
 
-My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Best Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.
+My work *ReconVLA: Reconstructive Vision–Language–Action Model as Effective Robot Perceiver* received the **AAAI 2026 Outstanding Paper Award**. To the best of my knowledge, it is the first embodied AI work to receive a best paper award at a top-tier machine learning conference. This work also initiated the research direction of robot visual representation alignment. Follow-up work in this line, *Spatial Forcing*, was adopted in the runner-up solution of the IROS 2025 Agibot World Challenge and was later accepted to ICLR 2026. I was also honored as an ICML 2026 Gold Reviewer.
 
 Beyond research, I am a co-founder of the open-source organization OpenHelix Robotics, where the repositories I have substantially led or contributed to have collectively gained over **5,000** GitHub stars. My work has been adopted in industrial models by companies such as Robbyant and Xiaomi, and has been widely recognized both in academia and industry. Related work has also been featured by MIT Technology Review.
 
@@ -314,4 +314,12 @@ Yihao Wang, Pengxiang Ding, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, **Wenx
 **Zhejiang University** (group led by Prof. Chunhua Shen),  
 **The Hong Kong University of Science and Technology (Guangzhou)** (group led by Prof. Jia Li),  
 and the **BAAI Innovation Center**, among others.
+
+# 🎓 Former Mentees and Their Next Steps
+
+- Tongxin Wang → PhD program at City University of Hong Kong (CityU)
+- Yongtao Qu → PhD program at University of North Carolina at Chapel Hill (UNC)
+- Shuai Zhou → Master's program at Carnegie Mellon University (CMU)
+- Xiaoquan Sun → Joined INFIFORCE (原力无限)
+- Wenhao Yu → PhD program at the University of Science and Technology of China (USTC)
 

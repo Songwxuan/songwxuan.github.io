@@ -42,7 +42,7 @@ Email: songwenxuan0115 [AT] gmail.com
 - **Leading Technologies Award**, World Internet Conference (Key Technology Category), 2026
 - **Best Tool Paper**, IROS-26 ScaleInfra Workshop, 2026
 - **Scholarship**, Ant Group Intech Future Scholarship, **(10 selected annually)**, 2026
-- **<span style="color:red;">Best Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/30948)**, 2026
+- **<span style="color:red;">Outstanding Paper Award</span>**, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26), **(5/23680)**, 2026
 - [**Champion**, ICRA-26 WBCD Competition (Deformable Track)](https://mp.weixin.qq.com/s/jJLwNItTH3EQKAnQdG4jlQ), 2026
 - **Champion**, ICRA-26 WBCD Competition (Logistic Picking Track), 2026
 - [**Innovibe Rising Star Award**, Beijing Academy of Artificial Intelligence (BAAI)](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ), **(20 selected annually)**, 2026
